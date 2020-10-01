@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>J Huang | David Stein</title>
+    <link>https://users.flatironinstitute.org/~dstein/author/j-huang/</link>
+      <atom:link href="https://users.flatironinstitute.org/~dstein/author/j-huang/index.xml" rel="self" type="application/rss+xml" />
+    <description>J Huang</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 02 Jun 2020 00:00:00 -0400</lastBuildDate>
+    <image>
+      <url>https://users.flatironinstitute.org/~dstein/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>J Huang</title>
+      <link>https://users.flatironinstitute.org/~dstein/author/j-huang/</link>
+    </image>
+    
+    <item>
+      <title>A stable and accurate scheme for solving the Stefan problem coupled with natural convection using the Immersed Boundary Smooth Extension method</title>
+      <link>https://users.flatironinstitute.org/~dstein/publication/2020jcp/</link>
+      <pubDate>Tue, 02 Jun 2020 00:00:00 -0400</pubDate>
+      <guid>https://users.flatironinstitute.org/~dstein/publication/2020jcp/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

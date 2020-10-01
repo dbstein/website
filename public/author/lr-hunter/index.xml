@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>LR Hunter | David Stein</title>
+    <link>https://users.flatironinstitute.org/~dstein/author/lr-hunter/</link>
+      <atom:link href="https://users.flatironinstitute.org/~dstein/author/lr-hunter/index.xml" rel="self" type="application/rss+xml" />
+    <description>LR Hunter</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 20 Jul 2012 00:00:00 -0400</lastBuildDate>
+    <image>
+      <url>https://users.flatironinstitute.org/~dstein/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>LR Hunter</title>
+      <link>https://users.flatironinstitute.org/~dstein/author/lr-hunter/</link>
+    </image>
+    
+    <item>
+      <title>Limits on local Lorentz invariance in mercury and cesium</title>
+      <link>https://users.flatironinstitute.org/~dstein/publication/2012pra/</link>
+      <pubDate>Fri, 20 Jul 2012 00:00:00 -0400</pubDate>
+      <guid>https://users.flatironinstitute.org/~dstein/publication/2012pra/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

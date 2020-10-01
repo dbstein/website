@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>DB Stein | David Stein</title>
+    <link>https://users.flatironinstitute.org/~dstein/author/db-stein/</link>
+      <atom:link href="https://users.flatironinstitute.org/~dstein/author/db-stein/index.xml" rel="self" type="application/rss+xml" />
+    <description>DB Stein</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 23 Sep 2020 00:00:00 -0400</lastBuildDate>
+    <image>
+      <url>https://users.flatironinstitute.org/~dstein/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>DB Stein</title>
+      <link>https://users.flatironinstitute.org/~dstein/author/db-stein/</link>
+    </image>
+    
+    <item>
+      <title>Stoichiometric interactions explain spindle dynamics and scaling across 100 million years of nematode evolution</title>
+      <link>https://users.flatironinstitute.org/~dstein/publication/2020elife/</link>
+      <pubDate>Wed, 23 Sep 2020 00:00:00 -0400</pubDate>
+      <guid>https://users.flatironinstitute.org/~dstein/publication/2020elife/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Swirling Instability of the Microtubule Cytoskeleton</title>
+      <link>https://users.flatironinstitute.org/~dstein/publication/2020prl/</link>
+      <pubDate>Wed, 03 Jun 2020 00:00:00 -0400</pubDate>
+      <guid>https://users.flatironinstitute.org/~dstein/publication/2020prl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A stable and accurate scheme for solving the Stefan problem coupled with natural convection using the Immersed Boundary Smooth Extension method</title>
+      <link>https://users.flatironinstitute.org/~dstein/publication/2020jcp/</link>
+      <pubDate>Tue, 02 Jun 2020 00:00:00 -0400</pubDate>
+      <guid>https://users.flatironinstitute.org/~dstein/publication/2020jcp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rotating Membrane Inclusions Crystallize Through Hydrodynamic and Steric Interactions</title>
+      <link>https://users.flatironinstitute.org/~dstein/publication/2019prl/</link>
+      <pubDate>Thu, 03 Oct 2019 00:00:00 -0400</pubDate>
+      <guid>https://users.flatironinstitute.org/~dstein/publication/2019prl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Coarse-graining the dynamics of immersed and driven fiber assemblies</title>
+      <link>https://users.flatironinstitute.org/~dstein/publication/2019prf/</link>
+      <pubDate>Tue, 09 Jul 2019 00:00:00 -0400</pubDate>
+      <guid>https://users.flatironinstitute.org/~dstein/publication/2019prf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Convergent solutions of Stokes Oldroyd-B boundary value problems using the Immersed Boundary Smooth Extension (IBSE) Method</title>
+      <link>https://users.flatironinstitute.org/~dstein/publication/2019jnnfm/</link>
+      <pubDate>Mon, 25 Mar 2019 16:37:14 -0400</pubDate>
+      <guid>https://users.flatironinstitute.org/~dstein/publication/2019jnnfm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Immersed Boundary Smooth Extension (IBSE): A high-order method for solving incompressible flows in arbitrary smooth domains</title>
+      <link>https://users.flatironinstitute.org/~dstein/publication/2017jcp/</link>
+      <pubDate>Sat, 15 Apr 2017 00:00:00 -0400</pubDate>
+      <guid>https://users.flatironinstitute.org/~dstein/publication/2017jcp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Immersed boundary smooth extension: A high-order method for solving PDE on arbitrary smooth domains using Fourier spectral methods</title>
+      <link>https://users.flatironinstitute.org/~dstein/publication/2016jcp/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 -0500</pubDate>
+      <guid>https://users.flatironinstitute.org/~dstein/publication/2016jcp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Limits on local Lorentz invariance in mercury and cesium</title>
+      <link>https://users.flatironinstitute.org/~dstein/publication/2012pra/</link>
+      <pubDate>Fri, 20 Jul 2012 00:00:00 -0400</pubDate>
+      <guid>https://users.flatironinstitute.org/~dstein/publication/2012pra/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tracking progress towards universal childhood immunisation and the impact of global initiatives: a systematic analysis of three-dose diptheria, tetanus, and pertussis immunisation coverage</title>
+      <link>https://users.flatironinstitute.org/~dstein/publication/2008lancet/</link>
+      <pubDate>Sat, 13 Dec 2008 00:00:00 -0500</pubDate>
+      <guid>https://users.flatironinstitute.org/~dstein/publication/2008lancet/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CJL Murray | David Stein</title>
+    <link>https://users.flatironinstitute.org/~dstein/author/cjl-murray/</link>
+      <atom:link href="https://users.flatironinstitute.org/~dstein/author/cjl-murray/index.xml" rel="self" type="application/rss+xml" />
+    <description>CJL Murray</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 13 Dec 2008 00:00:00 -0500</lastBuildDate>
+    <image>
+      <url>https://users.flatironinstitute.org/~dstein/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>CJL Murray</title>
+      <link>https://users.flatironinstitute.org/~dstein/author/cjl-murray/</link>
+    </image>
+    
+    <item>
+      <title>Tracking progress towards universal childhood immunisation and the impact of global initiatives: a systematic analysis of three-dose diptheria, tetanus, and pertussis immunisation coverage</title>
+      <link>https://users.flatironinstitute.org/~dstein/publication/2008lancet/</link>
+      <pubDate>Sat, 13 Dec 2008 00:00:00 -0500</pubDate>
+      <guid>https://users.flatironinstitute.org/~dstein/publication/2008lancet/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
