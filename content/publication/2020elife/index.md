@@ -3,7 +3,7 @@ title = "Stoichiometric interactions explain spindle dynamics and scaling across
 date = 2020-09-23
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Rastaman Farhadifar", "CH Yu", "G Fabig", "HY Wu", "DB Stein", "M Rockman", "T Muller-Reichert", "MJ Shelley", "DJ Needleman"]
+authors = ["R Farhadifar", "CH Yu", "G Fabig", "HY Wu", "DB Stein", "M Rockman", "T Muller-Reichert", "MJ Shelley", "DJ Needleman"]
 
 # Publication type.
 # Legend:
