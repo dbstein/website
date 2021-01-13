@@ -1,6 +1,6 @@
 +++
 title = "Swirling Instability of the Microtubule Cytoskeleton"
-date = 2020-06-03
+date = 2021-01-13
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["DB Stein", "G de Canio",  "E Laugo", "MJ Shelley", "RE Goldstein"]
@@ -17,7 +17,7 @@ authors = ["DB Stein", "G de Canio",  "E Laugo", "MJ Shelley", "RE Goldstein"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "submitted"
+publication = "Physical Review Letters"
 publication_short = ""
 
 # Abstract.
@@ -53,7 +53,7 @@ projects = ["coarse_fibers"]
 slides = ""
 
 # Links (optional).
-url_pdf = ""
+url_pdf = "https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.126.028103"
 url_preprint = "https://www.biorxiv.org/content/10.1101/2020.08.27.268318v1"
 url_code = ""
 url_dataset = ""

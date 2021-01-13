@@ -17,7 +17,7 @@ authors = ["J Huang", "MJ Shelley", "DB Stein"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "submitted"
+publication = "in revisions"
 publication_short = ""
 
 # Abstract.
